@@ -6,7 +6,7 @@ import itil from "../assets/ITIL4.jpg";
 import ReactPlayer from "react-player";
 import video1 from "../assets/videos1.mp4";
 import video2 from "../assets/videos2.mp4";
-import video3 from "../assets/videos3.mp4";
+import video3 from "../assets/Videos3.mp4";
 import video4 from "../assets/videos4.mp4";
 import video5 from "../assets/videos5.mp4";
 import video6 from "../assets/videos6.mp4";
