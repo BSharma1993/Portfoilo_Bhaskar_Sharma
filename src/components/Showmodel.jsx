@@ -52,10 +52,10 @@ const MyModal = ({ CloseModal }) => {
                 <li className=" w-full rounded-full py-2 px-4 bg-black hover:scale-110 duration-200 cursor-pointer">
                   #NodeJs
                 </li>
-                {/* <li className=" w-full rounded-full py-2 px-4 bg-black hover:scale-110 duration-200 cursor-pointer">
-                  #javaScript
-                </li>
                 <li className=" w-full rounded-full py-2 px-4 bg-black hover:scale-110 duration-200 cursor-pointer">
+                  #Android Studio
+                </li>
+                {/* <li className=" w-full rounded-full py-2 px-4 bg-black hover:scale-110 duration-200 cursor-pointer">
                   #javaScript
                 </li> */}
               </ul>
