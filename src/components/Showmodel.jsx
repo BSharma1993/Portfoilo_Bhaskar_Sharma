@@ -30,7 +30,7 @@ const MyModal = ({ CloseModal }) => {
                 the visitors to stay for ever. Technologies and tools that I use
                 to create such awesome websites.
               </p>
-              <ul className=" grid grid-cols-3 gap-4 mt-5 text-white font-semibold text-[12px] md:text-lg">
+              <ul className=" grid grid-cols-3 gap-4 mt-5 text-white font-semibold text-[14px] ">
                 <li className=" w-full rounded-full py-2 px-4 bg-black hover:scale-110 duration-200 cursor-pointer">
                   #HTML
                 </li>
